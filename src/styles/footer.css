@@ -1,0 +1,10 @@
+.container_footer{
+    width: 100%;
+    height: 15vh;
+    background-color: #49C673;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

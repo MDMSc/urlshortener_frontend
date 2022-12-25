@@ -1,0 +1,49 @@
+.container_register{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.register_main_container{
+    border: 1px solid rgb(101, 209, 142);
+    border-radius: 10px;
+    width: 55vw;
+    max-width: 70vw;
+    min-width: 22rem;
+    height: auto;
+    margin: 6rem auto 5rem auto;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.register_main_section{
+    width: 60%;
+    color: rgb(101, 209, 142);
+    margin: 2rem auto;
+}
+
+.register_main_form{
+    padding: 1rem 2rem;
+}
+
+.login_main_section{
+    width: 40%;
+    margin: 0;
+    background-color: rgb(101, 209, 142);
+    border-radius: 0 9px 9px 0;
+    color: white;
+    text-align: center;
+    padding-top: 13rem;
+}
+
+.msg_alert_reset{
+    position: absolute;
+    top: 1rem;
+    right: auto;
+    left: auto;
+    width: 55vw;
+    max-width: 70vw;
+    min-width: 21rem;
+}

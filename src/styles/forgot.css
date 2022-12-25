@@ -1,0 +1,36 @@
+.container_forgot{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.forgot_main_container{
+    border: 1px solid rgb(101, 209, 142);
+    border-radius: 10px;
+    width: 55vw;
+    max-width: 70vw;
+    min-width: 22rem;
+    height: auto;
+    margin: 8rem auto 5rem auto;
+    padding: 0;
+    position: relative;
+    color: rgb(101, 209, 142);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.forgot_main_form{
+    width: 45vw;
+    min-width: 15rem;
+}
+
+.msg_alert_forgot{
+    position: absolute;
+    top: 1rem;
+    right: auto;
+    left: auto;
+    width: 55vw;
+    max-width: 70vw;
+    min-width: 21rem;
+}

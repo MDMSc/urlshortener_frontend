@@ -1,0 +1,14 @@
+.activation_container{
+    width: 55vw;
+    max-width: 70vw;
+    min-width: 21rem;
+    height: auto;
+    background-color: rgb(101, 209, 142);
+    border-radius: 10px;
+    margin: 10rem auto;
+    color: white;
+}
+
+.error{
+    color: rgb(247, 65, 65);
+}

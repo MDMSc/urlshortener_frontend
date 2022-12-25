@@ -1,0 +1,11 @@
+.navbar_brand{
+    font-size: 2em;
+    font-weight: bolder;
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(24, 154, 68);
+}
+
+.navbar_collapse{
+    justify-content: flex-end;
+}

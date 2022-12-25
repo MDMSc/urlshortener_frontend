@@ -1,0 +1,34 @@
+.container_userhome{
+    background: antiquewhite;
+    background: linear-gradient(162deg, rgba(255,255,255,1) 20%, rgba(200,245,215,1) 38%, rgba(124,230,159,1) 52%, rgba(106,219,143,1) 71%, rgba(73,199,115,1) 87%, rgba(24,162,71,0.913624824929972) 97%);
+}
+
+.container_userhome-main{
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 6vh;
+    position: relative;
+}
+
+.userhome_input{
+    width: 80%;
+    height: 18vh;
+    margin: 10vh auto 8vh auto;
+    border: 2px inset rgb(24, 154, 68);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.msg_alert_userhome{
+    position: absolute;
+    top: 1vh;
+    right: auto;
+    left: auto;
+    width: 55vw;
+    max-width: 70vw;
+    min-width: 21rem;
+}
