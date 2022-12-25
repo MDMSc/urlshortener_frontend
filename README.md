@@ -2,7 +2,9 @@
 
 Deployed frontend link: [https://urlshrinker.netlify.app](https://urlshrinker.netlify.app).\
 Deployed backend links: [https://shrinker-kufc.onrender.com](https://shrinker-kufc.onrender.com).\
-###Admin credentials\ 
+
+###`Admin credentials`
+
 email: admin@admin.com, password: admin123
 
 ## Available Scripts
