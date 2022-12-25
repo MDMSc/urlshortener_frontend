@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+## Deployed links and login details
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed frontend link: [https://urlshrinker.netlify.app](https://urlshrinker.netlify.app)
+Deployed backend links: [https://shrinker-kufc.onrender.com](https://shrinker-kufc.onrender.com)
+Admin credentials: email: admin@admin.com, password: admin123
 
 ## Available Scripts
 
