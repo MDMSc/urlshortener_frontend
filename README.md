@@ -9,9 +9,9 @@ email: admin@admin.com, password: admin123
 
 ### `Future Updates`
 
-1. Admin page will have analytics chart on the click of a button.\
-2. Addition of sorting buttons.\
-3. Addition of chatbot.\
+1. Admin page will have analytics chart on the click of a button.
+2. Addition of sorting buttons.
+3. Addition of chatbot.
 
 ## Available Scripts
 
